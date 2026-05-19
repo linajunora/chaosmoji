@@ -298,4 +298,9 @@ export const kaomojis: KaomojiData[] = [
     character: "( ‾́ ◡ ‾́ )",
     tags: ["smug", "proud", "confident", "happy"],
   },
+  {
+    id: "60",
+    character: "(҂`ﾛ´)︻デ═一",
+    tags: ["angry", "fight", "furious", "gun"],
+  },
 ];

@@ -34,6 +34,7 @@ const THEME_BOXES = [
       "unamused",
       "chaotic-good",
       "disappointed",
+      "gun",
     ],
   },
   {
